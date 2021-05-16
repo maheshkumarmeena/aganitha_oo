@@ -1,4 +1,4 @@
-1. The above java package contains java classes. It can be downlaoded and Tested in **Eclipse** or any other java Editor.
+1.The above java package contains java classes. It can be downlaoded and Tested in **Eclipse** or any other java Editor.
 
   Here,
 
@@ -7,7 +7,7 @@
   The classes A,B,C are initialized with parameterized constructor while creating the objects.
   These objects are then used to invoke their respective class methods.
 
-2. The file python_oops can be run as on command line via file name or the code can pe copied to run it in **jupyter notebook**
+2.The file python_oops can be run as on command line via file name or the code can pe copied to run it in **jupyter notebook**
 
   Here,
   I have created XYZ class with name and id attributes and the execution function is also there.
